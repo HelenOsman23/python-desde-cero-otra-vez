@@ -1,12 +1,12 @@
 Como resumen podemos decir que Python al igual que casi todos los lenguajes de programación modernos manipulan valores, los cuales pertencen a cierto tipo o clase.
 
--`in`, `float`, `str`, `bool`, `list`, `dict`, `tubla` Y `sets`.
+`in`, `float`, `str`, `bool`, `list`, `dict`, `tubla`, `sets`.
 
 Lo que se puede hacer con estos valores, depende de su tipo.
 
 Además de los valores, Python, al igual que casi todos los lenguajes modernos, tiene operadores.
 
-``` +, -, %, /, * ```
+` +, -, %, /, * `
 
 Observación no podemos utilizar todos los operados con todos los tipos de valores. 
 Por ejemplo, no es posible sumar un texto, con un número (int, float), pero curiosamente si es posible multiplicar un texto por un número.
@@ -30,4 +30,4 @@ Además Python tiene loops o iteración para ejecutar varias sentencias en cada 
 
 Finalmente mencionar que Python también trae algunas funciones predefinidos para hacer tareas comunes y frecuentes como la función `print()`
 
-- `int()`, `input()`, `float()`, `len()`, `range()`, `print()`, etc. 
+`int()`, `input()`, `float()`, `len()`, `range()`, `print()`, etc. 

@@ -5,4 +5,4 @@ total = 0
 for number in numbers:
     total += number
 
-print(f"El suma total es: {total+len(numbers)}")
+print(f"El suma total es: {total}")

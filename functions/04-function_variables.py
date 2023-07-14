@@ -7,4 +7,4 @@ def print_fullname(firtsname,lastname):
 print_fullname("sebas", "jmnz")   
 
 # Desde afuera no podemos acceder a las variables internas de la función
-print(fullname)
+# print(fullname)
